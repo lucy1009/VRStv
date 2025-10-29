@@ -6,11 +6,6 @@
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "detail": "https://api.1080zyku.com"
         },
-        "api_2": {
-            "name": "AV-155资源",
-            "api": "https://155api.com/api.php/provide/vod",
-            "detail": "https://155api.com"
-        },
         "api_3": {
             "name": "TV-360资源",
             "api": "https://360zy.com/api.php/provide/vod",
@@ -146,11 +141,6 @@
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
             "detail": "http://caiji.dyttzyapi.com"
         },
-        "api_30": {
-            "name": "AV-百万资源",
-            "api": "https://api.bwzyz.com/api.php/provide/vod",
-            "detail": "https://api.bwzyz.com"
-        },
         "api_31": {
             "name": "TV-百度云资源",
             "api": "https://api.apibdzy.com/api.php/provide/vod",
@@ -255,6 +245,16 @@
             "name": "TV-黑木耳点播",
             "api": "https://json02.heimuer.xyz/api.php/provide/vod",
             "detail": "https://json02.heimuer.xyz"
+        },
+        "api_2": {
+            "name": "AV-155资源",
+            "api": "https://155api.com/api.php/provide/vod",
+            "detail": "https://155api.com"
+        },
+        "api_30": {
+            "name": "AV-百万资源",
+            "api": "https://api.bwzyz.com/api.php/provide/vod",
+            "detail": "https://api.bwzyz.com"
         },
         "api_52": {
             "name": "AV-91麻豆",
